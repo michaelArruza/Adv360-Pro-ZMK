@@ -94,12 +94,6 @@ label = "macro__Mission_Control";
 #binding-cells = <0>;
 bindings = <&kp LC(UP_ARROW)>;
 };
-macro__Close_Program: macro__Close_Program{
-compatible = "zmk,behavior-macro";
-label = "macro__Close_Program";
-#binding-cells = <0>;
-bindings = <&kp LA(F4)>;
-};
 macro__Settings_Menu: macro__Settings_Menu{
 compatible = "zmk,behavior-macro";
 label = "macro__Settings_Menu";
