@@ -148,9 +148,3 @@ label = "macro__Strike_Through_Text";
 #binding-cells = <0>;
 bindings = <&kp LG(LS(X))>;
 };
-macro_ble_Click: macro_ble_Click{
-compatible = "zmk,behavior-macro";
-label = "macro_ble_Click";
-#binding-cells = <0>;
-bindings = <&mkp MB1>;
-};
